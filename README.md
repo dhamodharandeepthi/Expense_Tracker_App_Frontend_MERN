@@ -58,6 +58,6 @@ https://github.com/user-attachments/assets/c0521c1b-d603-403d-80b2-b93801e53f1e
 
   - **Summary.jsx:** Displays a summary of total expenses and expenses by category.
 
-- **src/App.js:** Main application component that integrates all the features.
+- **src/App.jsx:** Main application component that integrates all the features.
 
-- **src/index.js:** Entry point of the application.
+- **src/main.jsx:** Entry point of the application.
